@@ -69,7 +69,7 @@ export const LoginPage = () => {
 					<label htmlFor='password'>Contraseña:</label>
 				</div>
 
-				<button>Entrar</button>
+				<button className='buton'>Entrar</button>
 			</form>
 		</div>
 	);
