@@ -5,7 +5,7 @@ import {
 	useLocation,
 	useNavigate,
 } from 'react-router-dom';
-import img from './img'
+
 
 export const Navbar = () => {
 	const { state } = useLocation();
