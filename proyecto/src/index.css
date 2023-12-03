@@ -96,12 +96,22 @@ form {
 
 .for{
 color:white;
-display: flex;
-	justify-content: center;
+text-align: center;
+position: relative;
+  top: 100px
+
+
+
 }
 
 
 .parrafo{
 	color:white;
+	position: relative;
+  top: 120px
 	
+}
+
+.pagina{
+	color: #7052ff;
 }
