@@ -91,7 +91,17 @@ form {
 	color: rgb(0, 0, 0);
 	width: 90px;
 	margin: 10px 0;
-	height: 25px;
+	height: 25px;	
+}
 
+.for{
+color:white;
+display: flex;
+	justify-content: center;
+}
+
+
+.parrafo{
+	color:white;
 	
 }
