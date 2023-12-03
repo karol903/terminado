@@ -5,6 +5,7 @@ import {
 	useLocation,
 	useNavigate,
 } from 'react-router-dom';
+import img from './img'
 
 export const Navbar = () => {
 	const { state } = useLocation();
@@ -22,7 +23,7 @@ export const Navbar = () => {
 		<>
 			<header>
 				<h1>
-					<Link to='/'>Logo</Link>
+					<Link to='/'>Check List</Link>
 				</h1>
 
 				{state?.logged ? (
