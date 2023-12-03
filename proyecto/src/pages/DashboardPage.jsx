@@ -14,7 +14,7 @@ export const DashboardPage = () => {
       <input type="date" id="taskDueDate" required />
       <button type="button" onclick="addTask()" className='button'>Agregar</button>
     </form>
-    <ul id="taskList" />
+    <ul id="taskList"/>
   </div>
 </div>
 
